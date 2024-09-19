@@ -18,6 +18,7 @@ The primary objective of this project is to establish a secure and efficient sys
 The project will leverage a Kaggle dataset that encompasses statistical information (in CSV files) about daily popular YouTube videos across numerous months. The dataset covers up to 200 trending videos per day across various geographical locations. Each regional dataset contains data on video titles, channel titles, publication timestamps, tags, views, likes, dislikes, descriptions, and comment counts. Furthermore, a category_id field, distinct for each region, is integrated into the JSON file linked to that specific area. https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 # Architecture Overview
-
-
 ![Data Flow Architecture](https://github.com/amisha-21/Youtube-Data-Analysis/assets/77116519/3b52758e-6565-4393-b1a0-151085aaac47)
+
+# Dashboard 
+![image](https://github.com/satwikmb/Youtube-DataAnalysis/blob/main/Flowcharts/Dashboard.jpg)
